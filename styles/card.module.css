@@ -1,0 +1,152 @@
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 28%;
+    height: 600px;
+    margin-left: 4%;
+    margin-top: 5%;
+    border-radius: 10%;
+    background-color: #D3D3D3		;
+    ;
+    
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+  .comp{
+      margin-left: 7%;
+}
+
+.capa {
+    
+  background-color: #dfe6e9;
+  color: white;
+  border-radius: 15px;
+  width: 100%;
+  border: 3px solid;
+
+}
+.barre {
+   width: 90%;
+  }
+
+.progressbar {
+  font-family: "Mulish", sans-serif;
+  background-color: #132e33; 
+  color: white;
+  padding: 1rem;
+  text-align: right;
+  font-size: 15px;
+  border-radius: 15px;
+  width: 70%;
+  padding: 10px ;
+  
+
+}
+
+.react{
+  
+    margin-left: 2%;
+    font-family: "Mulish", sans-serif;
+    color: #132e33;
+    font-size: large;
+    font-weight: 700;
+}
+
+.reactimg{
+ width:5%;
+margin-right: 2%;
+}
+.titrecard{
+  padding-top: 8%;
+  text-align: center;
+  text-decoration: underline;
+  font-family: "Mulish", sans-serif;
+  color: #132e33;
+  font-size: xx-large;
+  font-weight: 200;
+}
+.titrecard2{
+  padding-top: 0%;
+  text-align: center;
+  text-decoration: underline;
+  font-family: "Mulish", sans-serif;
+  color: #132e33;
+  font-size: xx-large;
+  font-weight: 200;
+}
+
+.progressbar70 {
+  font-family: "Mulish", sans-serif;
+  background-color: #132e33; 
+  color: white;
+  padding: 1rem;
+  text-align: right;
+  font-size: 15px;
+  border-radius: 15px;
+  width: 70%;
+  padding: 10px ;
+  
+
+}
+
+.progressbar40 {
+  font-family: "Mulish", sans-serif;
+  background-color: #132e33; 
+  color: white;
+  padding: 1rem;
+  text-align: right;
+  font-size: 15px;
+  border-radius: 15px;
+  width: 40%;
+  padding: 10px ;
+  
+}
+
+.progressbar60 {
+  font-family: "Mulish", sans-serif;
+  background-color: #132e33; 
+  color: white;
+  padding: 1rem;
+  text-align: right;
+  font-size: 15px;
+  border-radius: 15px;
+  width: 60%;
+  padding: 10px ;
+  
+
+}
+.progressbar50 {
+  font-family: "Mulish", sans-serif;
+  background-color: #132e33; 
+  color: white;
+  padding: 1rem;
+  text-align: right;
+  font-size: 15px;
+  border-radius: 15px;
+  width: 50%;
+  padding: 10px ;
+  
+
+}
+.progressbar30 {
+  font-family: "Mulish", sans-serif;
+  background-color: #132e33; 
+  color: white;
+  padding: 1rem;
+  text-align: right;
+  font-size: 15px;
+  border-radius: 15px;
+  width: 30%;
+  padding: 10px ;
+  
+
+}

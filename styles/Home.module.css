@@ -1,0 +1,210 @@
+.top{
+    margin-left:6%;
+    display:flex;
+    margin-top: 5%;
+}
+
+.moi{
+    width: 20%;
+    float: left;
+}
+
+.ts{
+    font-family: "Mulish", sans-serif;
+    color: rgba(255, 255, 255, 0.5);    
+    margin-top: 1%;
+    margin-left: 15%;
+    font-size: xx-large;
+}
+.button1{
+    padding: 12px 40px;
+    font-size: x-large;
+    color: black;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.5); 
+    border: 3px solid;
+    transition-duration: 0.4s;
+}
+.button1:hover {
+    background-color: #132e33;
+    color: rgba(255, 255, 255, 0.5);
+  }
+
+  .button2{
+    margin-left: 6%;
+    padding: 12px 40px;
+    font-size: x-large;
+    color:rgba(255, 255, 255, 0.5); ;
+    border-radius: 25px;
+    background-color: #132e33; 
+    border: 3px solid;
+    transition-duration: 0.4s;
+}
+.button2:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+  }
+
+.aboutme{
+    margin-top: 17%;
+    margin-left: 7%;
+}
+
+.titre1{
+    font-family: "Mulish", sans-serif;
+    color: #132e33;
+    font-size: xxx-large;
+}
+.txt{
+    font-family: "Mulish", sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #132e33;
+
+    font-size: 19px;
+    line-height: 30px;
+    max-width: 900px;
+}
+.title3{
+    color: #132e33;
+
+    font-family: "Mulish", sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: xx-large;
+}
+.title2{
+    color: #132e33;
+
+    font-family: "Mulish", sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: xx-large;
+}
+.titre2{
+    font-family: "Mulish", sans-serif;
+    color: #132e33;
+    font-size: xxx-large;
+}
+.comp{
+    margin-top: 5%;
+    margin-left: 7%;
+}
+
+.capa {
+  background-color: #dfe6e9;
+  color: white;
+  border-radius: 15px;
+  width: 100%;
+  border: 3px solid;
+
+}
+.barre {
+    
+    width: 90%;
+  }
+
+.progressbar {
+  background-color: #132e33; 
+  color: white;
+  padding: 1rem;
+  text-align: right;
+  font-size: 15px;
+  border-radius: 15px;
+  width: 70%;
+  padding: 10px ;
+  
+
+}
+
+.react{
+    margin-left: 2%;
+    margin-top: 4%;
+    font-family: "Mulish", sans-serif;
+    color: #132e33;
+    font-size: large;
+    font-weight: 700;
+}
+
+.reactimg{
+ width:3%;
+margin-right: 2%;
+}
+
+.cardall{
+    display:flex;
+}
+.top1{
+        position: fixed;
+        width: 25px;
+        height: 25px;
+        bottom: 120px;
+        right: 90px;     
+}
+
+.topimg{
+    width: 120px;
+
+}
+.titre3
+{
+    font-family: "Mulish", sans-serif;
+    color: #132e33;
+    font-size: xxx-large;
+}
+.back{
+    background-color: #10262A;
+    border-radius: 0% 0% 50% 0%;
+        height: 800px;
+}
+.vag{
+    background-color: #10262A;
+    height: 600px;
+    border-radius: 40% 0% 0% 0%;
+
+}
+.titre4
+{
+    font-family: "Mulish", sans-serif;
+    color: rgba(255, 255, 255, 0.5); 
+    font-size: xxx-large;
+    text-decoration: underline;
+}
+.cach{
+    margin-left: 70%;
+    color: #10262A;
+    font-size: 80px;
+
+}
+.txt4{
+    font-family: "Mulish", sans-serif;
+    font-size: 70px;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 200;
+}
+.txt5{
+    font-family: "Mulish", sans-serif;
+    margin-top: -60px;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 200;
+}
+.mail{
+    font-family: "Mulish", sans-serif;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+}
+
+.mail:hover{
+    text-decoration: underline;
+}
+
+.lkn{
+    width: 2.5%;
+}
+
+.git{
+    width: 2.5%;
+    margin-left: 3%;
+}
