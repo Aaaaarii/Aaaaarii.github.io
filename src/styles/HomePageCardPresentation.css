@@ -1,0 +1,119 @@
+
+.page{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.HomePageCardPresentation {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px; 
+    background-color: #74185d;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    width: 98%;
+    height: 650px;
+    border-radius: 10px; 
+    position: relative;
+    overflow: hidden;
+  }
+  .Title {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  
+  .Wavinghand {
+    
+    width: 60px; 
+    height: auto; 
+  }
+  
+  .TitleText {
+    font-size: 40px; 
+    max-width: 700px;
+    margin-left: 10px; 
+  }
+  .Description {
+    font-size: 24px;
+    align-items: center; 
+    justify-content: center;
+    max-width: 800px;
+  }
+  .Button{
+    margin-top: 20px;
+    width: 150px;
+    height: 45px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: black;
+    font-size: 20px;
+    border: 2px solid aliceblue;
+  }
+  .blobsform,
+.blobsform2,
+.blobsform3,
+.blobsform4,
+.blobsform5 {
+  position: absolute;
+}
+
+.blobsform {
+  top: 20px;
+  left: 20px;
+  width: 120px;
+}
+
+.blobsform2 {
+  top: 100px;
+  right: 50px;
+  width: 80px;
+}
+
+.blobsform3 {
+  bottom: 50px;
+  right: 100px;
+  width: 100px;
+}
+
+.blobsform4 {
+  bottom: 120px;
+  left: 80px;
+  width: 60px;
+}
+
+.blobsform5 {
+  top: 200px;
+  left: 200px;
+  width: 150px;
+
+}
+.Facecheck{
+width: 90px; 
+height: auto; 
+}
+.devSami{   
+width: 90px; 
+height: auto; 
+}
+.TypewriterText {
+    overflow: hidden; 
+    border-right: 0.15em solid orange; 
+    animation: typing 2s steps(40, end), blink-caret 0.75s step-end infinite;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+  }
+  
+  @keyframes blink-caret {
+    from, to {
+      border-color: transparent;
+    }
+    50% {
+      border-color: orange;
+    }
+  }
