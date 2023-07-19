@@ -14,3 +14,16 @@
 body {
   background-color: black;
 }
+.Service{
+  margin-top: 50px;
+  color: aliceblue;
+}
+
+.HomeCardServiceContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}

@@ -1,0 +1,27 @@
+
+.page{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+  .HomePageCardService_2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px; 
+    background-color: #74185d;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    width: 100%;
+    height: 300px;
+    border-radius: 10px; 
+    position: relative;
+    overflow: hidden;
+  }
+  .Title {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+
+  
